@@ -1,7 +1,7 @@
 /*
 Vector2D.js
-Simple but fairly thorough 2D vector class.  There are a handful of non-destructive static functions 
-as well as instance functions.  
+Simple but fairly thorough 2D vector class.  There are a handful of non-destructive static functions
+as well as instance functions.
 
 If you ignore certain parts this can work equally well as a 'Point' class.  Just be careful not to
 confuse yourself when trying to distinguish the difference between a point and a vector in whatever
@@ -10,13 +10,13 @@ context you use this in. :)
 
 Copyright (c) 2014 Mike Ferron (mikeferron.com)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
-associated documentation files (the "Software"), to deal in the Software without restriction, 
-including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
-and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
 subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or 
+The above copyright notice and this permission notice shall be included in all copies or
 substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
