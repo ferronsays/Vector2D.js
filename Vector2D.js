@@ -42,7 +42,7 @@ Vector2D = (function() {
     //works for the 1-argument functions
     var name, _fn, _i, _len, _ref;
 
-    _ref = ['add', 'subtract', 'multiply', 'divide', 'dot'];
+    _ref = ['add', 'subtract', 'multiply', 'divide', 'dot', 'equals'];
 
     _fn = function(name) {
         return Vector2D[name] = function(a, b) {
